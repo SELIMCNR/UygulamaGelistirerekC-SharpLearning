@@ -1,0 +1,13 @@
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\bin\Debug\Project1.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\bin\Debug\Project1.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.exe
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.Ccombolistbox.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.Albltextbtn1.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.Blbltextbtn2.resources
+C:\Users\btk02\OneDrive\Masaüstü\dersler\C#-Form\Temel-Projeler\Project1\Project1\obj\Debug\Project1.Dcombolistbox2.resources
